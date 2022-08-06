@@ -22,3 +22,5 @@ Here are some ideas to get you started:
 - PHP
 - JavaScript
 - Python
+
+[Linkdin](https://www.linkedin.com/in/sadianodi/)
